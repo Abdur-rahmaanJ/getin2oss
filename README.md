@@ -26,4 +26,8 @@ https://twitter.com/first_tmrs_only
 
 # Documentation route
 
+# commnunity
+
+- mailing lists
+- freenode IRC
 
